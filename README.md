@@ -33,4 +33,4 @@ plot of allele frequency over generations, .tsv tracking allele frequency across
 
    
 #### example: drift
-  python model.py --out test --N 100 --p 0.5
+  python model.py --out test --N 100 --p 0.5 --out test
